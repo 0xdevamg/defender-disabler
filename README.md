@@ -1,4 +1,4 @@
-![logo](assets/images/logo.jpeg)
+![logo](https://iili.io/J7Lnf9V.jpg)
 
 # Windows Defender Disabler
 
@@ -6,13 +6,13 @@ The script disables Windows Defender by modifying the "Start" entries in the Reg
 
 ## How to run the script?
 
-First you need to boot into "Safe mode" on Windows using Win+R command and writting "msconfig" as show below.
+First you need to boot into "Safe mode" on Windows using Win+R command and writing "msconfig" as show below.
 
-![Image1](assets/images/1.png)
+![Image1](https://iili.io/J7Ln3cx.png)
 
 Then go to "Boot" tab and check "Safe boot" option selecting "Minimal", after that click OK and reboot.
 
-![Image2](assets/images/2.png)
+![Image2](https://iili.io/J7LnF8Q.png)
 
 Finally run the powershell script with terminal, and thats all Windows Defender has been disabled successfully from your system.
 
